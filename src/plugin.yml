@@ -1,0 +1,10 @@
+main: me.pronix.help.Main
+version: 1.0
+autor: ThePronix
+name: pronixHelp
+
+commands:
+  vip:
+  mvip:
+  heros:
+  sponsor: 
